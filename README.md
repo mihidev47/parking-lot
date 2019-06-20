@@ -1,6 +1,6 @@
-#PARKING LOT
+# PARKING LOT
 
-###Getting started
+### Getting started
 
 Ikuti Langkah-langkah Golang + Mysql:
 
